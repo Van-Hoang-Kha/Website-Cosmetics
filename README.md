@@ -1,2 +1,2 @@
 # Website-Cosmetics
-Learning HTML/CSS/JS craete Landing Page Design 
+Learning HTML/CSS/JS create Landing Page Design 
